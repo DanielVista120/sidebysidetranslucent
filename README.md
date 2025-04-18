@@ -25,4 +25,4 @@ This theme is a customized evolution of the default Windhawk themes, using them 
 
 - Default Windhawk themes – for the original design and structure.
 - https://github.com/ramensoftware
-- Created with love by [DanielVista120].
+- Created with love by DanielVista120.
