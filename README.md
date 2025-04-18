@@ -12,9 +12,10 @@
 ## 📦 Installation
 
 1. Make sure you have Windhawk installed: [https://windhawk.net](https://windhawk.net)
-2. Import the `SideBySide Translucent` theme into Windhawk.
-3. Apply the theme from the Start Menu Mods section.
-4. Enjoy your updated, modern Start menu!
+2. Create a fork of Windows 11 Start Menu Styler
+3. Import the `SideBySide Translucent` theme into the code.
+4. Select and Apply the theme from the Start Menu Mods section.
+5. Enjoy your updated, modern Start menu!
 
 ## 🛠️ Based On
 
@@ -23,4 +24,5 @@ This theme is a customized evolution of the default Windhawk themes, using them 
 ## 🙌 Credits
 
 - Default Windhawk themes – for the original design and structure.
-- Created with love by [Your Name] (you can replace this with your handle or link).
+- https://github.com/ramensoftware
+- Created with love by [DanielVista120].
